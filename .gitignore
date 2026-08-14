@@ -1,9 +1,3 @@
-#Ignora file eseguibili
-tutor
-simulatore
-*.out
-*.exe
-
 #Ignora le cartelle e i file generati da Cmake
 build/
 CMakeCache.txt
