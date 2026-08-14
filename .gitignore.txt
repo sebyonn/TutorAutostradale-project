@@ -1,0 +1,16 @@
+#Ignora file eseguibili
+tutor
+simulatore
+*.out
+*.exe
+
+#Ignora le cartelle e i file generati da Cmake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.o
+
+#Ignora i file temporanei di sistema del Mac
+.DS_Store
