@@ -9,7 +9,7 @@ A C++ project developed for the Programming Lab course. This system models a hig
   * Implemented the core logic, data structures, and algorithms.
   * Handled debugging.
 
-* **Francesco Barban**
+* **Francesco Barban** - [@fr4n850](https://github.com/fr4n850)
   * Configured and optimized the entire build environment via 'CMakeLists.txt' (enabling '-02' compiler optimizations).
   * Contributed to C++ module implementation and component integration.
 
